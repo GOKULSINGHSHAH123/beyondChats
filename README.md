@@ -23,7 +23,7 @@ Gemini 2.0 Flash LLM
 
 🚀 Setup Instructions
 Clone the repository
-git clone https://github.com/yourusername/reddit-persona-generator.git
+git clone https://github.com/GOKULSINGHSHAH123/beyondChats.git
 cd reddit-persona-generator
 
 
