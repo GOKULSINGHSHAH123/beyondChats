@@ -1,0 +1,1183 @@
+Reddit User Persona Analysis: kojied_cited
+==================================================
+
+Here's a user persona based on the provided Reddit activity analysis:
+
+**Name**: Alex Chen
+**Age**: 28-35
+**Occupation**: Software Developer/Engineer or Data Analyst
+**Location**: New York City
+**Digital Tier**: Tech Early Adopter
+**Personality Archetype**: The Analyst & The Helper
+
+**Behavioral Traits**:
+- Analytical [6][11][12][19][26][31][36][48][59][60][64][72][81][86][100][111][117][140][137][205][209][216][229][236][247][255][256][257][262][263][265][266][280][281][295][296][301][302][309][310][327][328][340][341][347][348]
+- Knowledgeable [6][8][15][23][76][81][86][129][136][146][206][207][211][212]
+- Inquisitive/Curious [2][17][18][113][120][121][154][164][165][253][256][257][259][263][265][288][294][352][353][358]
+- Helpful [0][5][8][16][23][77][78][166][169][171][173][254][267][268]
+- Observant [6][11][12][19][26][27][34][41][48][57][63][66][67][70][102][122][124][173][174][168]
+- Pragmatic [34][43][44][178][192][196][215][218][276][279][351][352]
+
+**Communication Style**:
+Informative and often direct, Alex seeks to provide useful and insightful information, sometimes with a casual or conversational tone, depending on the context. He is also polite and engaging when seeking information. [0][5][6][8][15][16][19][23][1][5][14][16][22][24][3][4][7][13][26][27][36][46][48][59][64][72][61][68][57][70][71][77][81][100][111][117][105][112][114][169][171][173][57][70][71][101][206][209][211]
+
+**Core Interests**:
+1.  Technology (AI, VR/AR, Vision Pro, Software Development) [2][18][20][67][74][84][91][96][97][107][108][109][110][119][120][130][131][135][137][138][140][141][142][143][144][147][151][152][153][154][155][156][157][158][159][160][161][162][163][168][169][170][171][172][173][174][200][201][204][205][285][286][334][335][336][337][338][339][340]
+2.  NYC Culture (Food, Travel, Lifestyle, Transit) [10][22][27][45][47][48][49][57][61][62][64][66][71][72][101][106][117][122][123][124][178][206][208][214][215]
+3.  Gaming (Civilization V, Manor Lords, Project Zomboid) [0][1][3][4][5][6][7][8][9][19][23][28][30][31][58][59][60][68][69][76][80][81][82][86][87][278][279][280][281][282][287]
+4.  Personal Finance/Frugality/Investing [236][237][238][239][240][241][242][243][244][245][246][247][249][250][251][252][253][255][256][257][258][259][260][262][263][264][265][266][269][272][289][291][292][293][294][295][296][297][298][299][300, 301, 302, 303, 304, 320][305, 306, 308, 309, 312, 314][348][351][352][353]
+5. Culture (Anime, Japanese, representation/Diversity) [75, 77][100][113][118][125, 126, 128, 145, 146, 148][207][211][212][223]
+
+**Motivations & Goals**:
+- Sharing knowledge and helping others make informed decisions, especially in finance, technology and in NYC. [0][5][8][15][16][23][77][78][81][86][100][117][118][166][169][171][173][206][208][211][255][264][265]
+- Seeking to optimize efficiency and value in personal life and investments. [59][60][71][72][244][249][251][255][257][269][300][309][312][351]
+- Exploring new technologies and understanding their impact on society and personal use cases. [179][193][200][205]
+
+**Pain Points & Frustrations**:
+- High costs in NYC and inefficient spending habits. [225][240][251][257][264][269][272]
+- Limitations and degradation of quality in technology, including AI, Vision Pro, and other services. [18][46][66][67][97][110][121][137][138][140][150][174][191][340]
+- Inefficient processes and poor planning. [52][89][124][286]
+
+**Signature Quote**:
+"Let's break this down. What are the key variables and how can we optimize for the best outcome? Also, any tips on good eats around here?"
+
+
+==================================================
+CITATION REFERENCES
+==================================================
+
+[0] Source: Comment in r/ManorLords
+Text: Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/honey.
+Also I just store ale at the tavern or keep it in the brewery for this reason
+URL: https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/
+
+[1] Source: Comment in r/ManorLords
+Text: Yeah but it doesn’t seem to affect much though
+URL: https://reddit.com/r/ManorLords/comments/1lwfdh8/anyone_else_having_an_issue_where_their_trading/n2dn0vm/
+
+[2] Source: Comment in r/ChatGPT
+Text: Incredible stuff! How did you maintain character consistency? Did you generate a consistent character image and then use the image-to-video feature?
+URL: https://reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/n2b07h0/
+
+[3] Source: Comment in r/ManorLords
+Text: I do too but I rarely finish a game haha. Too little late game content
+URL: https://reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i5k2p/
+
+[4] Source: Comment in r/ManorLords
+Text: I do too but I rarely finish a game haha. Too little late game content
+URL: https://reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i52vu/
+
+[5] Source: Comment in r/ManorLords
+Text: You have to kill the bandit units, or donate crop yields though the manor (tithing, different from taxation).
+URL: https://reddit.com/r/ManorLords/comments/1lscpmo/how_does_influence_on_hard_work/n1hhd7z/
+
+[6] Source: Comment in r/ManorLords
+Text: That proximity is ridiculous, deep mining, two fishing huts, vegetable, orchards, and trade iron for malt.
+imo trading raw materials is easier than trading crafted goods in the current build. High quantity stuff is easy to stock, and you could have multiple trading posts up without any major issues....
+URL: https://reddit.com/r/ManorLords/comments/1lq4lst/this_is_acceptable/n1089i9/
+
+[7] Source: Comment in r/ManorLords
+Text: Yeah I was doing alright and then as soon as I upgraded to tier 3 my town was in shambles. I didn’t notice how demanding it was going to be
+URL: https://reddit.com/r/ManorLords/comments/1ljgy2w/confession/mzopv8i/
+
+[8] Source: Comment in r/ManorLords
+Text: So in general each family will eat each type of food equally. Which means those with low supply are more likely to be consumed first.
+
+Eggs I believe each plot only produces one per month, so it's helpful, but won't be sufficient to maintain food diversity
+URL: https://reddit.com/r/ManorLords/comments/1lihry5/am_i_doing_something_wrong_with_food_management_i/mzc2uit/
+
+[9] Source: Comment in r/ManorLords
+Text: I build my cities close to the borders of others, that way I'm not managing multiple cities at once. The best is building it at the three-way border. That way you're basically managing three cities at once.
+URL: https://reddit.com/r/ManorLords/comments/1lg0qii/the_ability_to_combine_regions_or_make_aivassal/myulv47/
+
+[10] Source: Comment in r/FoodNYC
+Text: Breakfast - Buvette
+
+Coffee - Lyria
+
+Lunch - Tsukemen okiboru
+
+Coffee - La cabra
+
+Dinner - Isodi
+
+Drinks - Double chicken please
+URL: https://reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/mxxhvpf/
+
+[11] Source: Comment in r/NFT
+Text: \- the hype has definitely faded, you can see that with the price as well as the number of people discussing it on X, or even here  
+\- haven't seen much innovation in the space at all, the momentum seems to have shifted to solana memecoins, and dissipated after that  
+\- again, people no longer see...
+URL: https://reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/
+
+[12] Source: Comment in r/AskReddit
+Text: Millenials have less kids, so they have more time and money to spend on themselves. Millenials are also getting married less and later in life, meaning we allocate more effort on self care
+URL: https://reddit.com/r/AskReddit/comments/1kz5a0n/do_you_think_millennials_generally_look_younger/mv2xf3q/
+
+[13] Source: Comment in r/AskReddit
+Text: I wore a toga. she showed up in regular clothes
+URL: https://reddit.com/r/AskReddit/comments/1ksghx5/what_happened_on_the_first_date_that_made_you/mtnzw3v/
+
+[14] Source: Comment in r/nycrail
+Text: Sent dm!
+URL: https://reddit.com/r/nycrail/comments/1kplupt/anyone_want_this_subway_token_wallet/mt02ziy/
+
+[15] Source: Comment in r/OnePiece
+Text: Closest expression is naraku ochi 奈落落ち which means falling from the stage, used in kabuki. It’s a way to say going to hell, but neither the literal translation nor the actual meaning is an expression for child suicide.
+Source: I’m Japanese
+URL: https://reddit.com/r/OnePiece/comments/1kpavbs/ive_been_ripping_on_that_part_of_zoros_backstory/mswlma6/
+
+[16] Source: Comment in r/OnePiece
+Text: Fyi it says
+“Dear mom, everything I encounter from now is thanks to you”
+(It’s a Mother’s Day special chocolate)
+URL: https://reddit.com/r/OnePiece/comments/1kalm70/spotted_at_my_local_heiwado/mpo38g6/
+
+[17] Source: Comment in r/RooCode
+Text: how did you make that diagram? I've been doing it in ascii lol
+URL: https://reddit.com/r/RooCode/comments/1jwf8oq/heres_how_i_make_use_of_the_different_modes_in/mmih39e/
+
+[18] Source: Comment in r/ChatGPT
+Text: It’s pretty hard to get consistent characters when they’re photorealistic tbh. I guess our eyes are more lenient when it’s cartoon.
+Any tips for photo realism would be appreciated!
+URL: https://reddit.com/r/ChatGPT/comments/1jpagk5/to_me_the_most_impressive_new_feature_is_the/ml31o85/
+
+[19] Source: Comment in r/civ5
+Text: Can’t really discuss this without your strategy. If you’re setting up on the coast over river, your strategy must involve maritime trades. Also means you benefit from other cities being on the coast. It also means you need some navy to protect your shipping routes and coastal cities.
+URL: https://reddit.com/r/civ5/comments/1jlw2ao/rate_my_starting_locaiton/mk73w0o/
+
+[20] Source: Comment in r/ChatGPTJailbreak
+Text: imagine making 60fps videos with photos from OAI images. nothing on the internet can be trusted
+URL: https://reddit.com/r/ChatGPTJailbreak/comments/1jliha3/i_cant_believe_i_made_it_do_this_note_i_do_not/mk4no36/
+
+[22] Source: Comment in r/AskNYC
+Text: Daytime bathhouse
+URL: https://reddit.com/r/AskNYC/comments/1iypf3t/just_laid_off_what_daytime_nyc_stuff_should_i_do/mexk4g8/
+
+[23] Source: Comment in r/civ5
+Text: This happens when you are in an advanced technological era than the AI. You can adjust to only give them gold, or other resources which you might not need (e.g. iron/coal).
+URL: https://reddit.com/r/civ5/comments/1iuhdh9/dude_tf/mdxgebg/
+
+[24] Source: Comment in r/AskReddit
+Text: Would you be interested in a trade agreement with England?
+URL: https://reddit.com/r/AskReddit/comments/1i6rkdz/gamers_dont_say_the_title_of_the_game_but_what/m8gl211/
+
+[26] Source: Comment in r/warriors
+Text: He used to shoot well and have impact when no one had him on the radar, and opponents didn’t have him on their scouting report.
+Now that there’s pressure to perform, and opponents develop plans on how to deal with him, he’s not doing so well.
+
+Really shows how hard it is to perform when the lights a...
+URL: https://reddit.com/r/warriors/comments/1hq7r88/can_someone_explain_why_lindy_is_out_there_over/m4prpxf/
+
+[27] Source: Comment in r/AskNYC
+Text: Not in Chelsea but Washington square park has the pigeon whisperer. Bear in mind he’s definitely eccentric and curses a lot so might not be a family friendly guy to talk to.
+Also the corner of 46th and 6Av always has insane number of pigeons. Like a lot.
+URL: https://reddit.com/r/AskNYC/comments/1hpnjqr/ridiculous_question_anybody_know_where_in_chelsea/m4j0ese/
+
+[28] Source: Comment in r/civ5
+Text: Also left, considering there’ll be an awkward gap between your 3rd city, where AI civs will most likely try to spam settlers into if you’re not careful
+URL: https://reddit.com/r/civ5/comments/1hp1es7/forward_settle_on_deity/m4dyqsa/
+
+[30] Source: Comment in r/civ5
+Text: Venice and Austria are annoying since they buy city states, skewing with the world congress votes. Also Venice spams missionaries like crazy
+URL: https://reddit.com/r/civ5/comments/1hhujby/ranking_the_ai_by_how_dangerous_they_are_on_high/m4dc5oo/
+
+[31] Source: Comment in r/civ5
+Text: It’s a hard balance to strike, since without growth tiles you can’t reach a pop to build Petra before the AI does, but growth tiles (exception of oasis) aren’t buffed by Petra
+URL: https://reddit.com/r/civ5/comments/1hoywu7/my_first_game_with_ige_mod_usage_and_an_ideal/m4dbpn9/
+
+[34] Source: Comment in r/aivideo
+Text: The most unrealistic part is that 18k will get you a cafe in Paris 🇫🇷
+URL: https://reddit.com/r/aivideo/comments/1fidnz4/the_most_emotional_ai_film_youve_seen_yet_4/m4aby21/
+
+[36] Source: Comment in r/LeopardsAteMyFace
+Text: Little do they know many “top American colleges” have a ton of international students on an F1 visa, which leads to STEM OPT and (hopefully) to an H1B visa.
+URL: https://reddit.com/r/LeopardsAteMyFace/comments/1hohsjk/rconservative_is_in_fullon_meltdown_right_now_its/m49vhkh/
+
+[41] Source: Comment in r/warriors
+Text: Am I watching basketball with ads or ads with some basketball sprinkled in between
+URL: https://reddit.com/r/warriors/comments/1hnckfr/daily_discussion_thread_december_27_2024/m45d3eq/
+
+[43] Source: Comment in r/OptimistsUnite
+Text: I’m hoping people realize after this that it’s not a left or right issue, but rather those with wealth pitting those less fortunate against each other. 
+Hopefully we can realize this before it’s too late and develop meaningful solutions
+URL: https://reddit.com/r/OptimistsUnite/comments/1hnvi2y/i_made_a_post_a_month_or_so_back_that_maga_will/m454yr1/
+
+[44] Source: Comment in r/warriors
+Text: I’m definitely done after curry. It was awesome seeing an underdog like him demolish taller players, revolutionize the game with his 3pt shooting.
+Wemby is an alien, but I can’t cheer for him the way I could for curry since it’s almost a given that tall players have an advantage (although 7ft+ playe...
+URL: https://reddit.com/r/warriors/comments/1hnrjru/future_of_the_league/m454lgx/
+
+[45] Source: Comment in r/AskNYC
+Text: Cloisters, Noguchi museum, more art galleries
+URL: https://reddit.com/r/AskNYC/comments/1hntgrp/what_is_your_nyc_to_do_list_for_2025/m453mqo/
+
+[46] Source: Comment in r/ChatGPT
+Text: You can ask it to alter its speed and complexity of the response if you ask it to. It'll update its memory accordingly as well.   
+The problem I'm encountering is that it just stops responding after 5 back-and-fourth. Restarting it doesn't help either. I agree the quality has degraded since they cam...
+URL: https://reddit.com/r/ChatGPT/comments/1hh2q9r/voice_mode_has_been_brutally_nerfed/m2nxxav/
+
+[47] Source: Comment in r/AskNYC
+Text: Whole foods
+URL: https://reddit.com/r/AskNYC/comments/1hh2tw3/obvious_signs_that_the_rich_has_come_to_take_ur/m2nvkr5/
+
+[48] Source: Comment in r/AskNYC
+Text: They're in the middle so they can see the door closing, making sure no one gets stuck. Other trains probably have sensors in the doors so they know when someone's being squashed
+URL: https://reddit.com/r/AskNYC/comments/1hcsb8n/what_do_the_conductors_in_the_middle_subway_cars/m1qihqd/
+
+[49] Source: Comment in r/AskNYC
+Text: I’m down to help! Do it at wsp and put up fliers around the city. 
+Like the Timothée Chalamet lookalike contest
+URL: https://reddit.com/r/AskNYC/comments/1haran2/if_i_created_a_memorial_for_all_those_denied/m1ax9to/
+
+[52] Source: Comment in r/AskReddit
+Text: Having your health insurance claim denied. 
+You think you’re covered because you’ve paid diligently every month, but then an accident happens, and you’re thrown into an endless cycle of calls, being passed around from one representative to another, trying to make sense of it all.
+URL: https://reddit.com/r/AskReddit/comments/1h9x0az/deleted_by_user/m14jlnj/
+
+[57] Source: Comment in r/FoodNYC
+Text: Oh interesting, I've been going about once a month recently but haven't noticed. I'm going on Sunday again so will let you know what I think
+URL: https://reddit.com/r/FoodNYC/comments/1h87emd/did_rakus_noodle_recipe_change/m0rzprt/
+
+[58] Source: Comment in r/civ5
+Text: That’s a good suggestion. I’ve found the level below to be too easy doing the optimal route, so will try that
+URL: https://reddit.com/r/civ5/comments/1h7bmv3/flight_deity/m0lub7c/
+
+[59] Source: Comment in r/civ5
+Text: The optimal strategy I've discovered is the following
+
+1. rush artist/writer slots and fill them
+2. rush renaissance era via acoustics
+3. bulb writer to fill rationalism slots
+4. if AI wants to be friends, accept (unless negative impact with neighboring civs) and do research agreement
+5. internal fo...
+URL: https://reddit.com/r/civ5/comments/1h7bmv3/flight_deity/m0jx8h5/
+
+[60] Source: Comment in r/civ5
+Text: Hermit with internal trade routes, max rationalism, work every specialist slot, bulb scientists, yeet off to space.
+URL: https://reddit.com/r/civ5/comments/1h61fr0/on_a_post_about_trade_tariffs/m0a6ok5/
+
+[61] Source: Comment in r/AskNYC
+Text: Don’t walk slow. If you’re going to admire the view do it out of the way of pedestrians
+URL: https://reddit.com/r/AskNYC/comments/1h2aw9v/whats_one_thing_you_would_tell_a_tourist_to_never/lzi30jy/
+
+[62] Source: Comment in r/FoodNYC
+Text: Whole pie is always better than a slice. You can get a good sit down pie between two people, or to take home. 
+
+Whole pie: John’s on Bleecker (usually 30 min wait)  
+
+ Slice: Lucia Pizza of SoHo (Caramelle Piccanti)
+URL: https://reddit.com/r/FoodNYC/comments/1h1zo4k/best_place_to_try_ny_pizza_for_a_first_timer/lzfhgsj/
+
+[63] Source: Comment in r/China
+Text: I’ve noticed this sub is pro-West leaning. If you want a pro-China leaning response you should check out r/sino.
+We all have our biases. Personally I enjoy lurking in both since the answer is somewhere in between.
+URL: https://reddit.com/r/China/comments/1h1smq1/whats_the_best_way_as_a_tourist_to_see_the/lze3b0d/
+
+[64] Source: Comment in r/AskNYC
+Text: The Coach USA bus takes you to Penn station, Bryant Park, or Grand central. If there's 4 of you I'd suggest an uber though, since the price point isn't that different.  
+If you still want to take the bus, download the Coach USA, and buy the tickets in advance. Or pay by cash at the bus stop. It's a ...
+URL: https://reddit.com/r/AskNYC/comments/1gzmo85/newark_airport_to_midtown/lyyqsop/
+
+[66] Source: Comment in r/AskNYC
+Text: My personal experience has definitely gotten worse.
+Flight delays are expected at this point, fleets are older with louder engines and narrower cabins, and overall service quality seems to have degraded
+URL: https://reddit.com/r/AskNYC/comments/1gx5sln/has_air_travel_gotten_worse/lyei609/
+
+[67] Source: Comment in r/VisionPro
+Text: I’m not using it as frequently as I had wished. The battery life is too low to use while flying (even with the extra battery bank it won’t last a full cross country flight)
+
+I’ve not used it at work yet since it’s socially awkward, and people see it weird. 
+I’ll use it at wfh now that they have wide...
+URL: https://reddit.com/r/VisionPro/comments/1gw2bof/should_i_get_one/ly658s7/
+
+[68] Source: Comment in r/civ5
+Text: You should spam cheap units like scouts into their territory so their units are forced into moving west
+URL: https://reddit.com/r/civ5/comments/1gvke1r/why_does_budapest_refuse_to_attack_assur/ly3ovey/
+
+[69] Source: Comment in r/civ5
+Text: The problem is that tithe is so op, and for some reason AI never pick it. I’ve never done your strat so will give it a try though
+URL: https://reddit.com/r/civ5/comments/1gumxga/what_adjustments_have_you_made_after_at_least_a/lxvjw46/
+
+[70] Source: Comment in r/seduction
+Text: Dating apps have been normalized but I still would prefer irl encounters compared to apps. Apps also make you see dates as trivial, since there’s always another girl one tap away.
+I usually take the time to leave quality comments, and around 1/3 of them materialize into matches. Some will just like ...
+URL: https://reddit.com/r/seduction/comments/1gtot3j/hinge_dating_app_review_and_perspective/lxopx3y/
+
+[71] Source: Comment in r/AskNYC
+Text: In person 100% You never know if it fits you unless you see it irl. The lines can get long, but it’s often worth it. I got three pairs of shoes and a shirt at the rag&amp;bone one the other day for $130, original price would’ve been $1000
+
+Try to go on the first day if you can, since they do sell ou...
+URL: https://reddit.com/r/AskNYC/comments/1gshr7i/fashionable_ppl_of_nyc_where_do_you_shop_for_mens/lxifvet/
+
+[72] Source: Comment in r/AskNYC
+Text: At that height you should check out 260 sample sale for your favorite brands. They have good brands that do sales on samples throughout the year. A lot of the sizes left over are XS or XL, so it’d fit you well.
+
+In terms of brands, here’s some of my favorites
+- APC
+- Acne studios
+- Rag&amp;Bone
+- Ma...
+URL: https://reddit.com/r/AskNYC/comments/1gshr7i/fashionable_ppl_of_nyc_where_do_you_shop_for_mens/lxfmito/
+
+[74] Source: Comment in r/QuestPro
+Text: or get lens covers
+URL: https://reddit.com/r/QuestPro/comments/1gp0se2/should_i_be_concerned_about_this/lwmnr1k/
+
+[76] Source: Comment in r/civ5
+Text: Literally me. Diety Persia Petra with Chechen Itza
+URL: https://reddit.com/r/civ5/comments/1gk8ez5/election_date_in_the_us_means_time_to_reinstall/lvouujm/
+
+[77] Source: Comment in r/GenZ
+Text: First of all you look good! But if you want to become more "conventionally attractive", here are some of my suggestions. Just personal opinions, take them or leave them.
+
+  
+**Do away with glasses -** 
+
+Have you considered contacts? If not you should look into it. Or lasik although that's a bit pric...
+URL: https://reddit.com/r/GenZ/comments/1gc4gbc/i_want_to_be_more_conventionally_attractive_you/ltr38yh/
+
+[78] Source: Comment in r/GenZ
+Text: I think you should just shave it off entirely. Get this shaver, it's a bit pricy but you'll never have to worry about shaving again (until you get a blade replacement in a few years)  
+[https://www.amazon.com/dp/B07W5SV5P8?psc=1&amp;ref=ppx\_yo2ov\_dt\_b\_product\_details](https://www.amazon.com/dp/...
+URL: https://reddit.com/r/GenZ/comments/1gc4gbc/i_want_to_be_more_conventionally_attractive_you/ltqzj9f/
+
+[80] Source: Comment in r/civ5
+Text: fyi aircrafts don't get this benefit, so building a city next to it won't be worth it
+URL: https://reddit.com/r/civ5/comments/1g130ld/i_played_for_so_many_years_i_have_never_ran_into/lrf0nnw/
+
+[81] Source: Comment in r/civ5
+Text: There are some key technologies which can give you significant advantage in the early game, either in military or in science. The ones for military are composite Bowmans, chariots, crossbow etc, but the great library doesn’t really help you obtain these since they’re on the opposite side of the tech...
+URL: https://reddit.com/r/civ5/comments/1fw0b0w/is_the_great_library_really_not_worth_it_has_my/lqb18ti/
+
+[82] Source: Comment in r/civ5
+Text: Is there a mod which automatically does this? Would be very helpful :/
+URL: https://reddit.com/r/civ5/comments/1fu9cfo/late_game_load_times_are_unbearable_for_everyone/lpyweyu/
+
+[84] Source: Comment in r/VisionPro
+Text: Keep it going!
+URL: https://reddit.com/r/VisionPro/comments/1fts3sz/explore_pov_6_month_milestone_huge_updates/lpuchld/
+
+[86] Source: Comment in r/civ5
+Text: It’s a combination of multiple factors, your military strength, the amount of GPT/luxury you can offer, their military might, the other civ’s might, etc.
+What seems to impact it the most is how bloodthirsty the AI is. Shaka will go to war with almost anyone, it’s impossible to get Ghandi to attack, ...
+URL: https://reddit.com/r/civ5/comments/1fszao0/how_often_can_you_beat_deity/lpqalrm/
+
+[87] Source: Comment in r/civ5
+Text: It depends on who’s my neighbor, if they’re peaceful it’s not too hard, unless someone runs away on science. Try to pit them against each other by bribing them to go to war with each other, which might be easier if you have warmongering neighbors.
+URL: https://reddit.com/r/civ5/comments/1fszao0/how_often_can_you_beat_deity/lpo4k9e/
+
+[89] Source: Comment in r/NYCbike
+Text: Oh I hate it when this happens. I remember they were doing all of 10th avenue or something for 20 blocks and it was horrible!
+
+At least the outcome was worth it though
+URL: https://reddit.com/r/NYCbike/comments/1fg6zch/update_on_the_bedford_ave_bike_lane/ln00ba5/
+
+[91] Source: Comment in r/VisionPro
+Text: I appreciate you guys continuing to build this despite the current situation. Please keep it coming!
+URL: https://reddit.com/r/VisionPro/comments/1fg6j3x/this_week_on_explore_pov_4_new_experiences_from/lmzzlrm/
+
+[96] Source: Comment in r/ChatGPT
+Text: Welp one less hallucination they do
+URL: https://reddit.com/r/ChatGPT/comments/1f1rgts/deleted_by_user/lk3t9ry/
+
+[97] Source: Comment in r/ChatGPT
+Text: Did the URL work? That seems like something AI can never really figure out
+URL: https://reddit.com/r/ChatGPT/comments/1f1rgts/deleted_by_user/lk3evig/
+
+[100] Source: Comment in r/MadeInAbyss
+Text: I'm Japanese, and the translation isn't entirely accurate  
+The first half is correct (Not a happy ending), but the second half is closer to "You're right.. there's alot of foreshadowing which was not resolved".
+
+The word 未回収 is often used for "flags", which mean specific plot points or foreshadowin...
+URL: https://reddit.com/r/MadeInAbyss/comments/1esebwa/what_does_the_author_mean_by_this_tweet/li6au72/
+
+[101] Source: Comment in r/FoodNYC
+Text: Isodi
+URL: https://reddit.com/r/FoodNYC/comments/1es0wgt/took_the_day_off_work_where_should_i_go_at_5pm_to/li2qrn6/
+
+[102] Source: Comment in r/GenZ
+Text: It seems like whether you’re on YouTube Reddit, TikTok, or Twitter, the same type of content shows up again and again and again. They basically all the same platform, just with slight differences
+URL: https://reddit.com/r/GenZ/comments/1ern99e/deleted_by_user/li03xcm/
+
+[105] Source: Comment in r/nba
+Text: Did you fr leave Joel out!??? rofl
+URL: https://reddit.com/r/nba/comments/1egy83a/usa_vs_south_sudan_stats_66_bench_points_lead_us/lfvpkdk/
+
+[106] Source: Comment in r/sanfrancisco
+Text: Bon Nene’s Mentaiko pasta. Just get it with half the butter so it’s not overwhelming
+URL: https://reddit.com/r/sanfrancisco/comments/1e3lc97/if_you_could_only_ever_eat_one_noodle_dish/ld8zfn4/
+
+[107] Source: Comment in r/VisionPro
+Text: It’s happened a couple times as well, they’re not really familiar with this category of device and seem to want to play it safe
+URL: https://reddit.com/r/VisionPro/comments/1e1je8s/the_joy_of_flying_with_an_apple_vision_pro/ld2t1w6/
+
+[108] Source: Comment in r/VisionPro
+Text: I usually use it as an external monitor while I get some work done or play games. Maybe connecting it to a Mac eats the battery
+URL: https://reddit.com/r/VisionPro/comments/1e1je8s/the_joy_of_flying_with_an_apple_vision_pro/ld2su5a/
+
+[109] Source: Comment in r/VisionPro
+Text: I have a 2400mAh and it’ll still last only for 4-5 hours. So not a full flight
+URL: https://reddit.com/r/VisionPro/comments/1e1je8s/the_joy_of_flying_with_an_apple_vision_pro/ld2sonx/
+
+[110] Source: Comment in r/VisionPro
+Text: Vision Pro is awesome to use while traveling, including on the journey there (airplane, trains, etc.). I just wish the battery would last longer, even with an external battery it doesn't last a full coast-to-coast flight
+URL: https://reddit.com/r/VisionPro/comments/1e1je8s/the_joy_of_flying_with_an_apple_vision_pro/lcv2en6/
+
+[111] Source: Comment in r/ask
+Text: Depends on your definition of "quick", but you can crack into Private Equity you'd likely have \~5M in net worth by the time you're 40. 
+
+Key to "rich" is to have assets which appreciate in value, but also have sufficient income to pay for your daily expenses. PE will give you both.
+
+There's a reaso...
+URL: https://reddit.com/r/ask/comments/1dyw0yw/what_is_actually_the_quickest_safest_way_to_get/lccw1vj/
+
+[112] Source: Comment in r/nba
+Text: Dude would literally score 100 pts
+URL: https://reddit.com/r/nba/comments/1dx0lo9/steve_kerrs_1_minute_statement_on_klay_leaving/lbzeg5t/
+
+[113] Source: Comment in r/OnePiece
+Text: Love this! Not to nitpick, but does the hat stay the same size, while the sandals grow in size?
+URL: https://reddit.com/r/OnePiece/comments/1dnep63/ch1118_the_most_free/la2ovum/
+
+[114] Source: Comment in r/KreigPosting
+Text: That’s the plan buddy
+URL: https://reddit.com/r/KreigPosting/comments/1dmo2yk/the_time_is_now_krieg_and_gin_raaaaa/l9xmazi/
+
+[117] Source: Comment in r/FoodNYC
+Text: Thai Diner is bomb, have to try their crab fried rice. Fish Cheeks is nearby and I'd reccomend it. They also have 7th street burger now, which is (still) good despite them expanding. Cafe Lyria is just across the street in Houston and they have some great coffee.
+
+Skip Tacombi, get Birria-landia ins...
+URL: https://reddit.com/r/FoodNYC/comments/1dhy5ft/deleted_by_user/l91it1d/
+
+[118] Source: Comment in r/OnePiece
+Text: Desire is not a word well known in Japanese. It could be dream though!
+URL: https://reddit.com/r/OnePiece/comments/1df9szo/what_do_you_all_think_d_means/l8ioi2o/
+
+[119] Source: Comment in r/VisionPro
+Text: Haven't had any issues at all!
+URL: https://reddit.com/r/VisionPro/comments/1ddnc42/visionos_2_stability/l86azf1/
+
+[120] Source: Comment in r/VisionPro
+Text: I don't really understand the use case for this. I feel like the ipad is sufficient, or you can just use the AVP to do the same research?
+URL: https://reddit.com/r/VisionPro/comments/1ddktg2/airplay_receiver_from_ipad_pro/l85pn75/
+
+[121] Source: Comment in r/dyson
+Text: Looking forwards to hearing how long the new one will last. I feel that the quality has gone down in the recent years, so fingers crossed it'll last for another 20
+URL: https://reddit.com/r/dyson/comments/1cz9yne/huge_salute_to_20_solid_years_of_service_old/l5gvdlt/
+
+[122] Source: Comment in r/nycrail
+Text: I can read a whole book going up those 7 escalators, but I do have to say it's the cleanest train of them all.
+
+Also the L and 6 gets way too crowded during rush hours
+URL: https://reddit.com/r/nycrail/comments/1cxf82n/my_nyc_subway_line_tier_list/l53atmk/
+
+[123] Source: Comment in r/AskNYC
+Text: Oh I didn't know that, thanks for the tip
+URL: https://reddit.com/r/AskNYC/comments/1cnzsbn/too_risky_to_land_at_4_and_get_amtrak_at_625/l3fqq7m/
+
+[124] Source: Comment in r/AskNYC
+Text: Oh yeah, the immigration for non-americans is bad in NYC, especially at JFK. You could be waiting there for 1.5+ hours just at immigration. 
+
+That's based on the assumption flights won't get delayed. I feel like rarely any flights land on time these days, so I'd probably add another 2 hour buffer ju...
+URL: https://reddit.com/r/AskNYC/comments/1cnzsbn/too_risky_to_land_at_4_and_get_amtrak_at_625/l3am1d8/
+
+[129] Source: Comment in r/threebodyproblem
+Text: Here are some of the top scientific figures involved in the Manhattan Project, including women: 
+ J. Robert Oppenheimer (Scientific Director) Enrico Fermi Leo Szilard Ernest Lawrence Hans Bethe Arthur Compton Glenn Seaborg Rudolf Peierls Otto Frisch Emilio Segrè Felix Bloch Eugene Wigner James Chadw...
+URL: https://reddit.com/r/threebodyproblem/comments/1cdg6xb/international_representation_in_netflixs_show/l1bti9w/
+
+[130] Source: Comment in r/VisionPro
+Text: I’d hope they will take advantage of their sports partnerships to push immersive video content. 
+I’m sure they’re willing to leverage this if they decide to go all in on the category.
+I presume they’ll ramp up production as they get closer to the second generation vision device, and based on the con...
+URL: https://reddit.com/r/VisionPro/comments/1cb22d5/deleted_by_user/l0vivxg/
+
+[131] Source: Comment in r/VisionPro
+Text: Downloading YT videos would be awesome
+URL: https://reddit.com/r/VisionPro/comments/1ca6875/the_new_trailer_of_moon_player_youtube_spatial_is/l0qbxdc/
+
+[135] Source: Comment in r/VisionPro
+Text: I think we need tools to make It easier for people to build content inside the headset. Think of something like Roblox, or being able to make interactive items and a game or storytelling device. Beautifulthings.xyz is good, but the objects aren’t interactive
+URL: https://reddit.com/r/VisionPro/comments/1c7wldx/will_the_avp_users_want_more_experience_like_the/l0b7oeo/
+
+[136] Source: Comment in r/AskHistorians
+Text: I’ll preface by saying that I’m Japanese (have grown up half in Japan and half outside of Japan), so my perspective isn’t that of Taiwanese people.
+
+My understanding is Taiwan was the first major region that Japan occupied, and thus Japan put in a significant effort to create a model colony out of T...
+URL: https://reddit.com/r/AskHistorians/comments/1c7xcg9/deleted_by_user/l0b4nj7/
+
+[137] Source: Comment in r/VisionPro
+Text: I’m sure there’s a lot of push back. Not enough devices in people’s hands, new OS with ok but not great documentation (compared to iOS), people not wanting to risk it again after being burned by the last XR hype cycle (leap, snap, etc)
+URL: https://reddit.com/r/VisionPro/comments/1c6ddd2/its_early_days_but_apple_needs_to_start_directly/l04630r/
+
+[138] Source: Comment in r/VisionPro
+Text: Honestly what we need is more content. NBA, f1, MLS, MLB etc. match recaps in immersive 180 video would be enough for me to come back on a daily basis (and pay for Apple+)
+
+I doubt Apple will create a developer program which pays devs but can allocate resources to content if they wanted to
+URL: https://reddit.com/r/VisionPro/comments/1c6ddd2/its_early_days_but_apple_needs_to_start_directly/l01d8gz/
+
+[140] Source: Comment in r/VisionPro
+Text: Yeah the math just doesn’t work, especially for consumer apps. Even if you projected the 2nd gen and 3rd gen vision devices to sell at the growth rate of iPhones (I believe 2nd gen iPhone sold x1.8), it’s not remotely enough for a developer to go build it if you want to make a scalable business.
+
+En...
+URL: https://reddit.com/r/VisionPro/comments/1c6ddd2/its_early_days_but_apple_needs_to_start_directly/l006a7d/
+
+[141] Source: Comment in r/VisionPro
+Text: Exactly, could’ve made it into a  demo of spacial shopping instead of a spacial experience
+URL: https://reddit.com/r/VisionPro/comments/1c5lyae/we_need_more_apps_like_the_gucci_app_on_avp_the/kzyz7ul/
+
+[142] Source: Comment in r/VisionPro
+Text: I’m glad they didn’t make it possible to buy the collection via Apple Pay. I may have bought the ring
+URL: https://reddit.com/r/VisionPro/comments/1c5lyae/we_need_more_apps_like_the_gucci_app_on_avp_the/kzvpatg/
+
+[143] Source: Comment in r/VisionPro
+Text: Yeah I understand that it’s a trade off. I wonder if there’s a way to  have the app downloaded, and then once that download is complete the highlight video can be downloaded automatically in the background
+URL: https://reddit.com/r/VisionPro/comments/1c3cusv/i_set_out_to_create_the_best_immersive_video/kzirc5h/
+
+[144] Source: Comment in r/VisionPro
+Text: Yeah ngl this was really good, good job! 
+
+Is there a way to have the highlight video automatically download? I think that would shorten the waiting time for users. Also queuing downloads would be a nice feature too
+URL: https://reddit.com/r/VisionPro/comments/1c3cusv/i_set_out_to_create_the_best_immersive_video/kzidg4o/
+
+[146] Source: Comment in r/BurningMan
+Text: Kimono (着物) is literally Japanese. It's called Hanfu (漢服) in Chinese and Hanbok in Korea.
+URL: https://reddit.com/r/BurningMan/comments/1c1pqqv/this_dumb_burning_man_ad_keeps_popping_up/kz928bk/
+
+[147] Source: Comment in r/VisionPro
+Text: Besides mandating iPad apps to be on visionOS would have gone poorly with the dev community and other tech companies, I wonder if a certain level of fine tuning was required to adjust iPad apps to work seamlessly on the visionOS.
+URL: https://reddit.com/r/VisionPro/comments/1c1reoz/why_did_apple_even_allow_apps_to_opt_out_of_being/kz57iwh/
+
+[150] Source: Comment in r/visionosdev
+Text: Now that’s some exciting stuff! Spacial workflow. The question is: does this make it worth wearing a AVP on your head? Probably not yet, but maybe down the line?
+URL: https://reddit.com/r/visionosdev/comments/1b9e3ij/see_your_github_in_3d_try_gitskyline_on_vision_pro/kty3brn/
+
+[151] Source: Comment in r/AppleVisionPro
+Text: In it right now
+URL: https://reddit.com/r/AppleVisionPro/comments/1b770m9/deleted_by_user/kth4oae/
+
+[152] Source: Comment in r/VisionPro
+Text: Didn't know they had an app for it
+URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktas3qn/
+
+[153] Source: Comment in r/VisionPro
+Text: Not atm, it's purely conceptual at this point
+URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktas26h/
+
+[154] Source: Comment in r/VisionPro
+Text: Wow this is the closest Meta comparison I've come across. Will check it out!
+URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktarvif/
+
+[155] Source: Comment in r/VisionPro
+Text: Nice, DMed you
+URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktaqb2d/
+
+[156] Source: Comment in r/VisionPro
+Text: Thanks! Currently using [these](https://www.insta360.com/product/insta360-x3), but open to other ideas
+URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktaq9yk/
+
+[157] Source: Comment in r/VisionPro
+Text: Will work on making a testflight version!
+
+Currently using [these](https://www.insta360.com/product/insta360-x3) to take videos.
+URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktaq7pt/
+
+[158] Source: Comment in r/VisionPro
+Text: Since I got alot of positive feedback I'll look into building a testflight version!
+
+We'll likely start with a few cities in the US, and continue to expand as I go travel around this summer.
+
+Planning to do Japan, SEA, then Europe. Lmk if you have places you want to explore via my app
+URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktaq4d2/
+
+[159] Source: Comment in r/VisionPro
+Text: Conceptually very similar! I’m still debating whether it should be photos or videos.
+If it’s photos it’s very similar to this app, although I’m thinking we’ll hire people to take content, so it’s much higher quality.
+Campus tours, wedding planning, real estate are some examples I think could be ente...
+URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt2i5uq/
+
+[160] Source: Comment in r/VisionPro
+Text: No, it's an MVP on testflight. I'll build a full app if there's sufficient interest
+URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt2atdg/
+
+[161] Source: Comment in r/VisionPro
+Text: Thanks! I recorded them myself since I was in Boston last week
+URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt2apug/
+
+[162] Source: Comment in r/VisionPro
+Text: I've been working on an MVP for tours in 360˚ video. I haven't been able to find one which integrated 3D models and 360˚ video, especially on the AVP, so decided to make one.
+
+Would love to get your thoughts!
+URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt1xxvi/
+
+[163] Source: Comment in r/VisionPro
+Text: Let’s do this
+URL: https://reddit.com/r/VisionPro/comments/1b3gxsh/poolview_a_space_for_apple_vision_pro_owners/ksxct2p/
+
+[164] Source: Comment in r/visionosdev
+Text: This is solid! Wish I discovered this a month ago and I'd have been able to build things much faster haha
+URL: https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/ksw0qkn/
+
+[165] Source: Comment in r/visionosdev
+Text: Just checked out your tutorials, custom skybox was interesting. I've taken a different approach, but good to know there are multiple ways of doing it.
+
+My devstrap is arriving today, will check out your tutorial if I get stuck somewhere!
+URL: https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/ksvzzmu/
+
+[166] Source: Comment in r/visionosdev
+Text: This tutorial will probably a good place for you to begin  
+[https://www.youtube.com/watch?v=HrZSSj8YTEI](https://www.youtube.com/watch?v=HrZSSj8YTEI)
+URL: https://reddit.com/r/visionosdev/comments/1az9thx/implementing_ar_product_visualization_on_an/ksq6nqb/
+
+[168] Source: Comment in r/AppleVisionPro
+Text: Took my first Amtrak and the AVP was awesome. The in train wifi was good enough for me to use the Mac virtual display too. I also got disconnected pretty frequently (at least ten times in the 4 hours I was on), but it came back immediately and wasn’t a huge issue
+URL: https://reddit.com/r/AppleVisionPro/comments/1b19dk1/killer_applications_roadwarriors/ksdpau7/
+
+[169] Source: Comment in r/AppleVisionPro
+Text: I also have an M1 MBP from 2020, and it works pretty good if you use lower resolution. I can barely notice the difference.
+
+For (1), I suggest using something like Magnet to keybind certain window configuration. I usually have it at max size and have 4 windows up.
+URL: https://reddit.com/r/AppleVisionPro/comments/1ay21f7/really_want_to_keep_it_but_why/krs4c4u/
+
+[170] Source: Comment in r/AppleVisionPro
+Text: Brave would be awesome, it's my default browser for my iPhone and Mac. I'd like to see Google Earth, and the standard Youtube app so we can watch 360˚ VR videos.
+URL: https://reddit.com/r/AppleVisionPro/comments/1ay3ht6/deleted_by_user/krs22r2/
+
+[171] Source: Comment in r/AppleVisionPro
+Text: I usually like to keep the AppleTV stuff until the end, since you want to be able to monitor what they're doing and guide them by mirroring what they're doing on your phone or mac. The AppleTV content (as well as HBO content etc.) can't be mirrored due to copyright. 
+
+I think the fruit ninja game is...
+URL: https://reddit.com/r/AppleVisionPro/comments/1axt2da/get_the_full_experience/krs1qsr/
+
+[172] Source: Comment in r/AppleVisionPro
+Text: Bro made me look like a fool lol
+URL: https://reddit.com/r/AppleVisionPro/comments/1ay0ejh/mt_haleakalà_immersive_envirment_easter_egg/krs0f3i/
+
+[173] Source: Comment in r/VisionPro
+Text: When using Macbook's mirroring, turn on your environments just a little. It'll drastically decrease your VR sickness.
+
+This is because VR sickness partially occurs due to the screen cutting into walls or other objects in the view in an unnatural way, which can be prevented if the environment covers ...
+URL: https://reddit.com/r/VisionPro/comments/1axtxeo/my_favorite_tips_that_arent_so_obvious/krrw556/
+
+[174] Source: Comment in r/VisionPro
+Text: Yeah right now Apple doesn't allow you to set custom environments. Probably a matter of time though. Personally I'd like to see video environments, similar to the lock screen of MacOS Sonoma. 
+
+(I'm aware that the current environments move slightly, but not to the extent as I'd like to see)
+URL: https://reddit.com/r/VisionPro/comments/1awxh9o/fantasy_environments_would_be_sick/krny7sa/
+
+[178] Source: Comment in r/nycrail
+Text: 6 and L are the worst lines to commute on IMO. So glad I can take BDFM
+URL: https://reddit.com/r/nycrail/comments/1aqwanc/you_arent_serious/kqfsugw/
+
+[179] Source: Comment in r/VisionPro
+Text: That's super cool! The potentials are limitless
+URL: https://reddit.com/r/VisionPro/comments/1aqtswl/flappy_bird_on_the_vision_pro/kqfkpfr/
+
+[191] Source: Comment in r/VisionPro
+Text: The problem with the pass through is that the virtual environment is pretty hard to use since it interferes with your hands.
+URL: https://reddit.com/r/VisionPro/comments/1aiun06/okopinion_is_changing_day_3_and_i_am_figuring_it/koxsh3b/
+
+[192] Source: Comment in r/VisionPro
+Text: The real question is whether you’ll miss it after you return it…
+URL: https://reddit.com/r/VisionPro/comments/1aiun06/okopinion_is_changing_day_3_and_i_am_figuring_it/koxrzxu/
+
+[193] Source: Comment in r/VisionPro
+Text: Bro this is so cool I didn’t know it was possible. Thanks for letting me know :)
+URL: https://reddit.com/r/VisionPro/comments/1aiun06/okopinion_is_changing_day_3_and_i_am_figuring_it/koxrspg/
+
+[196] Source: Comment in r/VisionPro
+Text: Not sure why you have so many downvotes, I think your comment is entirely valid.
+
+I’d say you have to experience it yourself to understand the difference. I’ve had the Quest 2 and Quest pro, and have built apps on the Meta store. So I’d say I’m more involved in the ecosystem than an average Apple co...
+URL: https://reddit.com/r/VisionPro/comments/1ah5sr0/completely_blown_away/koxdru9/
+
+[200] Source: Comment in r/VisionPro
+Text: Yeah this is the best thing that’s happened to the AR/VR/MR ecosystem. More competition leads to innovation.
+
+With that being said, the ecosystem aspect of AVP is just at a whole different level compared to Quest, so I think it’s hard for meta to compete in that aspect.
+
+Just different purposes I gu...
+URL: https://reddit.com/r/VisionPro/comments/1ah5sr0/completely_blown_away/koxcblh/
+
+[201] Source: Comment in r/VisionPro
+Text: Yeah which is just insufficient for me at least as of now.
+
+Ah yeah it could totally be due to the Wi-Fi as well. I’m at a lounge-ish place where I don’t control the Wi-Fi, so it’s unfortunately outside of my control
+URL: https://reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/koxbx0b/
+
+[204] Source: Comment in r/VisionPro
+Text: Tried the demo today, was convinced and bought it on the spot. I’d say live sports, and reliving memories is the two major cases of it. The build quality, user experience, overall thoughtfulness is unparalleled and nothing like the quest.
+URL: https://reddit.com/r/VisionPro/comments/1ah5sr0/completely_blown_away/kolxriy/
+
+[205] Source: Comment in r/VisionPro
+Text: I think the killer app will be interactive storytelling with realistic characters. With GPT and AVP we're halfway there. Lip syncing is almost a solved problem, gestures and facial expressions are still unresolved. 
+
+Now is that the world we want to live in? Maybe it's not so different than people b...
+URL: https://reddit.com/r/VisionPro/comments/1afoz45/deleted_by_user/kocq48t/
+
+[206] Source: Comment in r/FoodNYC
+Text: I’ve been there many times, to the point I became friends with the bartender. It’s usually a 1.5-3 hour wait for the back room, unless you go at weird hours.
+I’d recommend you skip the first room since they just serve overpriced cocktails on tap.
+
+The line outside is for both the first and second ro...
+URL: https://reddit.com/r/FoodNYC/comments/18upzdo/how_do_i_get_reservation_at_double_chicken_please/kfm1258/
+
+[207] Source: Comment in r/JapanTravelTips
+Text: Family mart chicken “FamiChiki” is unparalleled. Gotta try it.
+Also boiled eggs from any combini 
+But the true Japanese combini experience at this time of year is the Oden. It’s the soup that smells super nice the moment you go in. Get the egg, konnyaku, daikon. A true pleasure
+URL: https://reddit.com/r/JapanTravelTips/comments/18qen6v/my_hotel_is_surrounded_by_711_lawson_and/kewdh37/
+
+[208] Source: Comment in r/AskNYC
+Text: It’s cold! Bring a blanket and a hot thermos. Get hand warmers too, they sell them at Duane reade
+URL: https://reddit.com/r/AskNYC/comments/18q5crt/deleted_by_user/ket25lw/
+
+[209] Source: Comment in r/Harvard
+Text: I’m here at the club as I type this out, and I think it’s great for my particular situation.
+
+Price: it goes up precipitously after the first few years, so it depends on how many years it’s been since you’ve graduated
+
+Hotels: I don’t think it’s worth it, it’s pretty expensive from what I understand...
+URL: https://reddit.com/r/Harvard/comments/18ig8gy/is_the_harvard_club_ny_worth_it/kddsyoh/
+
+[211] Source: Comment in r/OnePiece
+Text: Haki is a word used semi-regularly in Japanese, unrelated to the concept of Haki in one piece. There’s no 1:1 translation in English, closest would be “willpower”. 
+In this particular context, the Japanese original seems to imply the standard definition instead of the concept of Haki unique to one p...
+URL: https://reddit.com/r/OnePiece/comments/18hc50g/the_early_mention_of_haki/kd6kqe3/
+
+[212] Source: Comment in r/MemePiece
+Text: It says 親方 which is pronounced Oyakata. It usually means "boss", most frequently used in the carpentry industry. I think it can also be used by the yakuza.
+URL: https://reddit.com/r/MemePiece/comments/18fn0ul/who_had_the_biggest_glowup/kcxgawc/
+
+[214] Source: Comment in r/newyorkcity
+Text: The homeless situation seems to have gotten really bad today all of a sudden. It could have just been the rain, but I saw like 5+ homelss people in the subway station.
+URL: https://reddit.com/r/newyorkcity/comments/17bap8d/the_mentally_unstable_homeless_issue_is_giving_me/k5q6ipr/
+
+[215] Source: Comment in r/AskNYC
+Text: I live in SoHo and pay less then $1300/mo in rent, with two roommates. I see roommates as a pro since we can host more and it’s nice to meet people through them. Would recommend mixed gender roommates if possible.
+URL: https://reddit.com/r/AskNYC/comments/172jxpu/is_this_budget_realistic_for_living_alone/k3xdbrm/
+
+[216] Source: Comment in r/MadeInAbyss
+Text: I feel like Nanachi's power of being able to see the curse of the abyss would indicate which way is up/down, since the curse only works for those trying to go up. Unless the relic has other uses than a compass, I'm not sure what other plot points this can serve
+URL: https://reddit.com/r/MadeInAbyss/comments/16zgwak/the_star_compass/k3gy0mq/
+
+[218] Source: Comment in r/NYCbike
+Text: This the CitiBike Annual membership right? So if you start/end in a different borough and one of them is Manhattan, it becomes $3+tax for 45 min?
+URL: https://reddit.com/r/NYCbike/comments/16q2pei/la_guardia_via_ecitibike_again/k2248cb/
+
+[223] Source: Comment in r/OnePiece
+Text: Maybe it's because I'm Japanese, but the anime voice actors doing the Japanese dub makes this x10 more enjoyable. I switch between English raw and Japanese dub periodically to get the best of both worlds
+URL: https://reddit.com/r/OnePiece/comments/1663mbt/one_piece_live_action_season_1_episode_5/jyqipnb/
+
+[225] Source: Comment in r/FoodNYC
+Text: Meanwhile, I just spent $37 on four tacos three blocks north… fml
+URL: https://reddit.com/r/FoodNYC/comments/162w8ul/250_the_biggest_pork_bun_ive_ever_seen_in_my_life/jy118g1/
+
+[229] Source: Comment in r/climate
+Text: The more a politician says "let me be honest" or "the reality is" or "here's the truth", don't believe what they are about to say.
+URL: https://reddit.com/r/climate/comments/15zp4l1/horrified_reaction_to_climate_change_denial_by/jxmclqa/
+
+[236] Source: Comment in r/Frugal
+Text: &gt;Predictably Irrational by Dan Ariely
+
+Just had a look, that's an interesting read. Not related to the idea I had, but found the high price of ownership to be something I hadn't thought about.
+
+So what you're saying is that people spend too much time on small ticket purchases, but are too impulsi...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwm4g8d/
+
+[237] Source: Comment in r/Frugal
+Text: Thank you for saying this! I'm actually in the process of developing a prototype, got a bit dejected, and decided to put the mock-up of it on reddit to get some prospective user feedback.
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwm152p/
+
+[238] Source: Comment in r/Frugal
+Text: Thanks! Wow I didn't know that YNAB had certifications for coaching. I've spend some time in the r/ynab and I have to say there are some passionate people there. 
+
+Not interested in competing head first with a giant like them, but I was trying to understand if there was a different approach to being...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwm0k99/
+
+[239] Source: Comment in r/Frugal
+Text: Yeah lifestyle creep really gets you on vacations. What's the last thing you added to the essentials list? What prompted you to add it?
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwl3u0c/
+
+[240] Source: Comment in r/Frugal
+Text: Same here, don't like having a cluttered room, especially since I live in NYC. Do you do this in your head, or do you write it out?
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwl3m6f/
+
+[241] Source: Comment in r/Frugal
+Text: Damn I wasn't going to charge $50, I'm not YNAB. Was thinking $2.50/mo or something like that, depending on how expensive server costs are.
+
+My plan was to use Plaid to connect to your bank account. From there we'd just pick up the high ticket items. 
+
+If users don't want to connect via plaid, they ...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwkmght/
+
+[242] Source: Comment in r/Frugal
+Text: 100% agree.
+
+As a matter of fact, I'd say that the most affluent people in my life are the most conscious with how they spend their money.
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwklevb/
+
+[243] Source: Comment in r/Frugal
+Text: Thanks, yeah I think there are many people in this community who decide to have the frugal lifestyle for various reasons. Not having disposable income could be a reason, but not everyone is in that camp
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwklbt6/
+
+[244] Source: Comment in r/Frugal
+Text: Thanks alot! Hearing you say that you can't believe this doesn't exist yet is the best compliment I can receive. 
+
+It definitely seems like this app would work in tandem with a budgeting app. 
+
+ADHD is real, and it's only getting more real with people's attention span shortening (short form video co...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwkkle6/
+
+[245] Source: Comment in r/Frugal
+Text: Yeah retail therapy is a coping mechanism which hits you with dopamine, but you oftentimes don't end up getting the utility from the purchase in the way you thought. One of the reasons I wanted to build this app is because I used to treat purchasing as retail therapy as well, and one day I bought on...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwkiwj9/
+
+[246] Source: Comment in r/Frugal
+Text: Accountability buddies, love that
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwkil33/
+
+[247] Source: Comment in r/Frugal
+Text: Thanks! I'm looking into the 9 step program in the book and it's amazing. But yeah, the concept is the same. I'm assuming the default is that you initially felt that purchase added to your life (otherwise why did you even decide to buy it lol), so reflecting back, it would be whether the purchase ad...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwkijpe/
+
+[249] Source: Comment in r/Frugal
+Text: It's a good thing that you're now more conscious about your purchasing behavior. I feel that most people in this mod started thinking about frugality after regret in a purchase, or seeing the impact on their financial well being. 
+
+Plus, you could always have your own estate sale and sell your stuff...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwkh3q6/
+
+[250] Source: Comment in r/Frugal
+Text: Exactly, although my thought was that making this subconscious process something trackable would increase productivity in the decision making. Instead of having to constantly think about it, or fear forgetting your thought process, or having it scattered across notebooks, excel sheets, etc., you cou...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwkgjs4/
+
+[251] Source: Comment in r/Frugal
+Text: Yeah, the target audience would be those who are living paycheck to paycheck, not because they cannot meet the basic needs in the hierarchy, but because they have unhealthy spending habits. 
+
+The thesis is: can you spend less but maintain your quality of life?
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwiiw16/
+
+[252] Source: Comment in r/Frugal
+Text: Definitely. I agree that there is beauty in unexpected encounters and purchases which can brighten up your day. But similar to how people still keep track of their finances, or some people track their sleeping habits, screen time, calories, etc. If tracking it is a worthwhile task, there are some wh...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwiilj6/
+
+[253] Source: Comment in r/Frugal
+Text: Absolutely. I definitely try to buy things with a deal. Now that you've add the iphone, how is it? Do you use the data or the subscriptions?
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwihybw/
+
+[254] Source: Comment in r/Frugal
+Text: Thanks! I'll check them out
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwihm0b/
+
+[255] Source: Comment in r/Frugal
+Text: Oh wow I didn't know economists actually measures utility like this. Yeah, based on the concept of utility, I would be looking to create an app that would enable individuals to track the utils they derive from individual purchases, using the information to make future purchase decisions. 
+
+There see...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwi8id0/
+
+[256] Source: Comment in r/Frugal
+Text: That's a solid mental model you've set for yourself. And congrats on success in your job! 
+
+How often do you look back and think "damn I shouldn't have bought that" or "why didn't I buy this sooner"?
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwi77bl/
+
+[257] Source: Comment in r/Frugal
+Text: Food delivery is so expensive! They've used venture capital money to subsidize it and get people hooked to it, and now is jacking up prices. It's a common tactic used by startups to achieve growth, you see it with airbnb, ubers, etc. 
+
+I'm on eBay or Mercari all the time too. It's a great place to f...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwi6rfi/
+
+[258] Source: Comment in r/Frugal
+Text: Okay, so you definitely have great self control when it comes to how you spend your money. Definitely easier said than done!
+
+I guess you wouldn't see a need to keep track of the "gratification/happieness" you get from your purchases, since you already have set routines on spending, and lives a pret...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwi6a5u/
+
+[259] Source: Comment in r/Frugal
+Text: Thanks for the valuable insight, and I'm glad you don't subscribe to "retail therapy". Not only is it bad for your wallet, it's literally destroying the world. 
+
+I like how you keep a list for expensive purchases. Do you reflect on your purchase and consider if it was "worth it" or not? I'm assuming...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwi4yho/
+
+[260] Source: Comment in r/Frugal
+Text: &gt;Frugality is the mental approach we each take when considering our resource allocations.
+
+The description of this community suggests otherwise. Even if you were talking about food, people make choices. Beef vs Chicken? Cheese vs Milk? Ice cream vs chocolate? How do you make those decisions?
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwi49gl/
+
+[262] Source: Comment in r/Frugal
+Text: Thanks!
+
+Recurring purchases definitely makes sense. There's a plethora of "give us your credit card info and we'll tell you all the hidden subscriptions you forgot about", but none of them (to my knowledge) enables you to compare the per-dollar-gratification you get from said subscription.
+
+My hypo...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwholfj/
+
+[263] Source: Comment in r/Frugal
+Text: Yes! Comparing the per-dollar gratification of your consumption is what I think would be worth tracking. 
+
+I like your coffee shop example. You see diminishing gratification in returning to the same coffee shop, so would prefer to spend the same $5 going to a new one. Better yet, save that money to ...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwhnstu/
+
+[264] Source: Comment in r/Frugal
+Text: But the problem is that's how so many people live paycheck to paycheck right? ([e.g. 58% of Americans](https://www.cnbc.com/2023/04/11/58percent-of-americans-are-living-paycheck-to-paycheck-cnbc-survey-reveals.html))
+
+I was hoping to build something which would enable people to make better financial...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwhmrch/
+
+[265] Source: Comment in r/Frugal
+Text: Thanks for your response! I also set up budgets for groceries, going out, dates, etc. Taking a step further, how do you decide what to buy within that budget? For example, let's say you have a budget for home improvement. Do you replace your vacuum, or the AC?
+
+I think we all have our own formulas a...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwhmbiy/
+
+[266] Source: Comment in r/Frugal
+Text: Thanks for the input! The list is just an example, not of my actual purchases.
+
+I like how you divide physical and emotional need. If I was to challenge your example though, isn't that how one starts calling shopping "retail therapy"?
+
+Everyone values things differently, so it's impossible to come u...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/jwhlbmp/
+
+[267] Source: Comment in r/NYCbike
+Text: Doing god's work, thank you so much!
+URL: https://reddit.com/r/NYCbike/comments/15qeqw0/citi_bike_keys_in_stock/jw6gwcr/
+
+[268] Source: Comment in r/plantclinic
+Text: Thanks! Seems like that was the issue so I’ve taken action
+URL: https://reddit.com/r/plantclinic/comments/15pvycv/english_ivy_in_critical_condition/jw087xb/
+
+[269] Source: Comment in r/Frugal
+Text: For the first time in my life, I started tracking my expenses. Sounds stupid I didn't do it until, now but I felt that I had all the money in the world, and could always "make more" or "work harder" in order to supplement the hole burning in my wallet. 
+
+Turns out, when you're working you're exchang...
+URL: https://reddit.com/r/Frugal/comments/15jzivp/how_is_everyone_dealing_with_inflation/jv3dcei/
+
+[272] Source: Comment in r/Frugal
+Text: I wish I had enough certainty on where I would be living, I moved from Boston to NYC recently, and had to get rid of so much stuff...
+URL: https://reddit.com/r/Frugal/comments/15jva1m/have_you_ever_bought_a_lifetime_supply_of/jv3assg/
+
+[276] Source: Comment in r/LifeProTips
+Text: Stop buying stuff you don’t need. I started tracking my expenses and realized how much unnecessary stuff I had been purchasing. Like, do I really need a callus removing gel?
+URL: https://reddit.com/r/LifeProTips/comments/14isc7a/lpt_what_toxic_habits_have_you_stopped_doing_that/jpir74e/
+
+[278] Source: Comment in r/projectzomboid
+Text: White ghillie suit with white gloves, doesn’t matter what’s underneath haha
+URL: https://reddit.com/r/projectzomboid/comments/13mr7rv/enough_about_what_weapon_is_better_than_the_other/jkwjxya/
+
+[279] Source: Comment in r/projectzomboid
+Text: I thought about it, but it’s just not realistic if I had a basement in an RV
+With that being said, maybe I’ll consider it as my under the floor storage room so I can use all of my above floor area as living quarters
+URL: https://reddit.com/r/projectzomboid/comments/13dwl0i/3_months_in_the_cleanest_and_most_functional_rv/jjpwftq/
+
+[280] Source: Comment in r/projectzomboid
+Text: They’re oakwood floating counters. There’s only one house with it in the vanilla game as far as I’m aware (westpoint), but the lake ivy map mod adds a bunch more.
+Much cleaner looking than the trailer floating counters you find in muldraugh
+URL: https://reddit.com/r/projectzomboid/comments/13dwl0i/3_months_in_the_cleanest_and_most_functional_rv/jjosp3o/
+
+[281] Source: Comment in r/projectzomboid
+Text: The metal ones have the highest storage capacity in the vanilla game (80), so optimal for a run like this one which has limited space.
+I’m not sure if the white one is in the vanilla game. I found them in Laky Ivy/Riverside fire department expansion mods, and had to add it inside since it’s such an ...
+URL: https://reddit.com/r/projectzomboid/comments/13dwl0i/3_months_in_the_cleanest_and_most_functional_rv/jjos94n/
+
+[282] Source: Comment in r/projectzomboid
+Text: I’ve done that a few times too, felt like I wanted to try something a bit different
+URL: https://reddit.com/r/projectzomboid/comments/13dwl0i/3_months_in_the_cleanest_and_most_functional_rv/jjorvmu/
+
+[285] Source: Comment in r/huggingface
+Text: Yeah it seems like it's down
+URL: https://reddit.com/r/huggingface/comments/130bkwo/does_huggingface_chat_work_for_any_of_you/jhwnbxj/
+
+[286] Source: Comment in r/AutoGPT
+Text: I left it running overnight and it used $5 while it was in a loop. I think it's really hard to spend THAT much money on it
+URL: https://reddit.com/r/AutoGPT/comments/1307s35/how_much_are_you_spending/jhwljea/
+
+[287] Source: Comment in r/projectzomboid
+Text: Pics please!
+URL: https://reddit.com/r/projectzomboid/comments/12rt8x9/driving_through_louisville_today_do_i_take_the_20/jgw41w7/
+
+[288] Source: Comment in r/opensea
+Text: Curious if anyone found a solution
+URL: https://reddit.com/r/opensea/comments/mjz8q7/metamask_atomic_match_status_and_transaction_not/ha7m89l/
+
+[289] Source: Comment in r/wallstreetbets
+Text: too late to get in?
+URL: https://reddit.com/r/wallstreetbets/comments/l6er79/the_gme_afterhours_thread_part_420_on_27_january/gl0bmdi/
+
+[291] Source: Comment in r/wallstreetbets
+Text: Thank you, I’ve been seeing this for a long time and it frustrates the shit out of me. I know I’ve lost money, but I’m not sure how much because the % are off
+URL: https://reddit.com/r/wallstreetbets/comments/hv8w2j/psa_robinhood_artificially_inflates_your_percent/fyrzh8x/
+
+[292] Source: Comment in r/stocks
+Text: I thought about it a lot, and decided to buy a little bit of SCI calls ($45 call 6/19 @3/19).
+So far it’s down -72% in value, but will let you know if it goes up.
+URL: https://reddit.com/r/stocks/comments/fvg63n/funeral_stocks/fmi70kg/
+
+[293] Source: Comment in r/investing
+Text: I absolutely agree with you. I guess it’s because I want to learn from deploying different plays. Also it’s a bit of a gamble and I enjoy it 😅
+URL: https://reddit.com/r/investing/comments/fv895w/if_you_were_lucky_enough_to_have_sold_before_this/fmi6jbg/
+
+[294] Source: Comment in r/investing
+Text: Thanks for your opinion. Can I ask why you think it’s unlikely?
+URL: https://reddit.com/r/investing/comments/fv895w/if_you_were_lucky_enough_to_have_sold_before_this/fmh3jmj/
+
+[295] Source: Comment in r/investing
+Text: Did that in February.
+Purchased a lot of put options beginning of March, gains deceased as the market rebounded but still up by 3-4x
+I’m holding my puts until we hit SPY 195 which is in accordance to the recession bottom trend line from all the way back to the 1920s. 
+From there I have around a doze...
+URL: https://reddit.com/r/investing/comments/fv895w/if_you_were_lucky_enough_to_have_sold_before_this/fmh0vsv/
+
+[296] Source: Comment in r/wallstreetbets
+Text: Are they really worth 38.22B?  
+For context Goldman is 50.79B, Salesforce is 120.21B. Is Zoom worth 3/4 of Goldman, 1/4 of Salesforce?
+URL: https://reddit.com/r/wallstreetbets/comments/fv4rcu/puts_on_everything_except_for_zm_calls_on_zm/fmgijum/
+
+[297] Source: Comment in r/options
+Text: I put like 5k on September calls yesterday. Let's see how it goes
+URL: https://reddit.com/r/options/comments/fuaj9n/lk_earnings_next_week_this_could_be_interesting/fmbvuxl/
+
+[298] Source: Comment in r/stocks
+Text: Yeah 1/2 my investments are already in long term put options. I don’t know if we’ll go down that much though tbh.
+URL: https://reddit.com/r/stocks/comments/fk6aya/still_buying_options/fkqzed1/
+
+[299] Source: Comment in r/stocks
+Text: Are you suggesting selling outs or calls?
+URL: https://reddit.com/r/stocks/comments/fk6aya/still_buying_options/fkqza41/
+
+[300] Source: Comment in r/stocks
+Text: Nice. Yeah I realize I should have done that. What I did was liquidate my active (stocks) and passive (index fund) in early February. I was thinking “even if there’s no recession, I don’t see the market going up anytime soon”. Only downside seemed that I’ll have to pay income tax on some of my short...
+URL: https://reddit.com/r/stocks/comments/fk6aya/still_buying_options/fkqx851/
+
+[301] Source: Comment in r/stocks
+Text: Yeah, it’s now about identifying sectors which have not seen that much of a downturn, but will in the future. Immediate industries (tourism, airlines, etc.) are already expected to fall. So maybe industries that will be indirectly impacted by the crisis are the ones to go after?
+Thinking about adver...
+URL: https://reddit.com/r/stocks/comments/fk6aya/still_buying_options/fkqwpel/
+
+[302] Source: Comment in r/stocks
+Text: Yeah I mean it’s no longer a secret that SHTF when McKinsey is saying there’s economic impact until Q4. That’s when you know things are “priced in”.
+I don’t think the world will go into anarchy because of this, so for me things seem priced in
+URL: https://reddit.com/r/stocks/comments/fk6aya/still_buying_options/fkqwchn/
+
+[309] Source: Comment in r/wallstreetbets
+Text: Welcome to the 🐻side. Hope you don’t get laid off, but happy to provide my insight. I’m not a professional trader but have made 300% gains this past month. Here’s what I’m doing:
+
+Now that even Mckinsey is saying economic recovery will take until Q4, a lot of put options are starting to get expensiv...
+URL: https://reddit.com/r/wallstreetbets/comments/fjwekf/1_ticket_to_the_convention/fkpf4w6/
+
+[310] Source: Comment in r/wallstreetbets
+Text: I’ve thought about this a lot too. Been asking my friends in China on what the situation is like. Seems like it’s true that the virus is not spreading as much (maybe not to the low levels that CCP dictates), but the economic impact still seems yet to come.
+The wife of the startup founder I invested ...
+URL: https://reddit.com/r/wallstreetbets/comments/fjw4h5/when_will_the_bear_run_end_i_think_pretty_soon/fkpdbu4/
+
+[312] Source: Comment in r/wallstreetbets
+Text: Holding INDA $22 9/18 from last week. Printing pretty good 😎
+URL: https://reddit.com/r/wallstreetbets/comments/fjvszr/deleted_by_user/fkpazzh/
+
+[327] Source: Comment in r/ThirdCultureKids
+Text: It’ll be cool if this community took off.
+I’m Japanese, but grew up in Austria Serbia Slovenia, and now live in San Francisco. I moved to the Bay Area because I wanted to live in a place that had good career opportunity, diversity, weather, and work-life balance. 
+I’ve always been search for an “ide...
+URL: https://reddit.com/r/ThirdCultureKids/comments/ea1pxd/deleted_by_user/fd4hcel/
+
+[328] Source: Post in r/newyorkcity
+Text: I feel violated by intern season
+
+There's this bar that I frequent a few blocks away from my house. Technically different neighborhood, but generally has a mature vibe with people who like music and to dance. Today when I went to the bar and all of a sudden I felt like I was at a college basement pa...
+URL: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+[334] Source: Post in r/VisionPro
+Text: Spacial tours with 3D map and 360˚ video
+URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/
+
+[335] Source: Post in r/visionosdev
+Text: Best blogs, tutorial channels to learn
+
+Hey I’m an iOS developer building in visionOS. Do people have recommendations on resources to catch up on new featuresets for spacial computing?
+URL: https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+
+[336] Source: Post in r/VisionPro
+Text: Can't wait for Vision Air 5 launching in 2034 with these transparent displays!
+URL: https://reddit.com/r/VisionPro/comments/1b36n83/cant_wait_for_vision_air_5_launching_in_2034_with/
+
+[337] Source: Post in r/VisionPro
+Text: Watching Edgerunners on the moon feels
+
+Thank you u/overpaidengineer for the inspo
+URL: https://reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/
+
+[338] Source: Post in r/VisionPro
+Text: Killer feature: accessing chatGPT (iPad app) and using audio as primary input
+
+I just find this to be much easier than doing it on my Mac + display setup. Give it a try
+URL: https://reddit.com/r/VisionPro/comments/1alf7av/killer_feature_accessing_chatgpt_ipad_app_and/
+
+[339] Source: Post in r/VisionPro
+Text: Would you guys like to see Pokemon Go in AVP?
+
+Hi guys,
+
+I think Pokemon could be one of the killer use case for the vision pro. Imagine, you could fight players from around the world from the comfort of your couch. With the recent controversy around Palworld, they're looking for the next "Pokemon G...
+URL: https://reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/
+
+[340] Source: Post in r/VisionPro
+Text: Can you actually “work” in AVP?
+
+I’m curious if people have been able to fully port their workflow into AVP.
+
+I’ve been trying to actually use the Vision Pro to get some work done, but without github and visual studio code, it’s not been the easiest (also obviously no terminal). I could use Mac virt...
+URL: https://reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/
+
+[341] Source: Post in r/OnePiece
+Text: 【Theory】 What if we live in the void 800 century
+
+Let’s say the WG is the current western civilization. 
+
+The birth of Western history is in the Middle East, specifically Iraq (Nippur). Which is why the west, led by the US, has been trying to cause instability, and destroy historical artifacts. That...
+URL: https://reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/
+
+[347] Source: Post in r/ClimateOffensive
+Text: Tracking our individual impacts on the world through ESG ratings
+
+&amp;#x200B;
+
+[Mock-up of ESG scores ](https://preview.redd.it/btc0a5nqmhjb1.png?width=632&amp;format=png&amp;auto=webp&amp;s=13920d7c88791b2579b6167e5fe135a136731ef7)
+
+&amp;#x200B;
+
+We've had ESG ratings for decades now, but it hasn'...
+URL: https://reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/
+
+[348] Source: Post in r/Frugal
+Text: How do you decide what to buy and not buy?
+
+I've been lurking in this channel for a while now, and have been greatly inspired by the ways people have found ways to stretch their money. This got me thinking, is there a way to develop a mental model on what we buy or don't buy?
+
+I feel that most peopl...
+URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/
+
+[351] Source: Post in r/Webull
+Text: 50k at a time?
+
+I want to transfer from Robinhood, but WB only allows 50k transfers at a time. Each transfer which takes 5 days needs to be completed before I can transfer more. 
+Is there no way to transfer 50k per day?
+URL: https://reddit.com/r/Webull/comments/flf90r/50k_at_a_time/
+
+[352] Source: Post in r/stocks
+Text: Still buying options?
+
+I’ve been trading options for the past month or so, and have made good money. But I’ve realized recently that many put options have become quite expensive, to the point that the market has to crash HARD to make great gains. What’s everyone’s move now, since it seems that the l...
+URL: https://reddit.com/r/stocks/comments/fk6aya/still_buying_options/
+
+[353] Source: Post in r/options
+Text: Seeking advice: I’ve made some gains buying put options this month, but I’ve not been doing call option spread. Option spread limits risk, but also limits profitability. I know in a normal economic scenario it makes sense, but are spreads still recommended when we can’t see the bottom of the market?
+URL: https://reddit.com/r/options/comments/fiflte/seeking_advice_ive_made_some_gains_buying_put/
+
+[358] Source: Post in r/stocks
+Text: Funeral stocks, yay or nay?
+
+Trying to look ahead of the market here. The ZM, APT boat has set sail. What’s next?
+
+[SCI](https://finance.yahoo.com/quote/SCI/)
+URL: https://reddit.com/r/stocks/comments/fawwgp/funeral_stocks_yay_or_nay/

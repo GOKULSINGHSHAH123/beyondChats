@@ -1,0 +1,41 @@
+Raw Reddit Persona for kojied
+==================================================
+
+**Name**: Kenji O'Connell
+**Age**: 25-35
+**Occupation**: Software Engineer/Developer, possibly with entrepreneurial ambitions
+**Location**: New York City
+**Personality Type**: The Analyst
+
+**Traits**:
+- Analytical
+- Inquisitive
+- Knowledgeable
+- Practical
+- Helpful
+- Pragmatic
+
+**Communication Style**:
+Kenji communicates in a direct and informative manner, often incorporating casual language and humor.
+
+**Interests**:
+- Technology (VR/AR, Vision Pro, AI)
+- Gaming (Civilization V, Manor Lords, Project Zomboid)
+- Investing/Personal Finance
+- Anime/Manga
+- Food and Culture in NYC
+
+**Goals**:
+- Improve personal finances
+- Understand and optimize technology
+- Share knowledge and help others
+- Explore and create innovative experiences
+
+**Frustrations**:
+- Limitations of current technology (especially Vision Pro)
+- Inefficient processes
+- Cost of living in NYC
+- Lack of diversity/representation
+
+**Signature Quote**:
+"The potential is limitless, but let's be realistic about the limitations."

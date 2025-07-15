@@ -1,0 +1,97 @@
+Reddit User Persona Analysis: Hungry-Move-6603_cited
+==================================================
+
+**Name**: Rohan Verma
+**Age**: 30-35
+**Occupation**: Software Engineer/IT Professional (Inferred from analytical communication style and location discussions)
+**Location**: Lucknow, India (Primary focus in posts)
+**Digital Tier**: Tech Savvy/Casual User
+**Personality Archetype**: The Pragmatist
+
+**Behavioral Traits**:
+- Observant [1][2][6][7][12]
+- Critical [0][9][10][12]
+- Inquisitive [4][11][13]
+
+**Communication Style**:
+Rohan uses a direct, yet informal communication style, often incorporating analytical elements to his arguments. His tone can be quite blunt when critiquing issues he finds problematic, yet he is able to converse using casual language, as well [0][1][3][6][10][12]
+
+**Core Interests**:
+1. Lucknow's culture and current issues [1][12]
+2. Healthy eating habits and food quality [4][9]
+
+**Motivations & Goals**:
+- Finding and accessing affordable, healthy food options in Lucknow [4][9]
+- Seeking ways to productively spend leisure time, likely while avoiding the more negative aspects of Lucknow society, like corruption [13]
+
+**Pain Points & Frustrations**:
+- Rampant corruption and bribery in everyday life [1][2]
+- High rents and perceived lack of corresponding demand in Lucknow's real estate market [0]
+- Substandard food quality in available options [9]
+
+**Signature Quote**:
+"Is there a way to get a decent meal in this city without breaking the bank or being ripped off? This is getting ridiculous!"
+
+
+==================================================
+CITATION REFERENCES
+==================================================
+
+[0] Source: Comment in r/lucknow
+Text: Malls are a thing of past - and entire LKO is on steroids in rents cost, despite low to no demand.
+URL: https://reddit.com/r/lucknow/comments/1lzfhve/what_has_happened_to_malls_like_wave_one_awadh/n34g4ea/
+
+[1] Source: Comment in r/nagpur
+Text: I was caught without helmet and license (close to my home). Cops outright wanted to fine me, but a 'common guy' came in and discussed bribe on my behalf with cops. I gave him 200rs (back in 2011) and Cops let me go.
+
+He was not a common man. He was their agent and shield. If I or anyone recorded mys...
+URL: https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/
+
+[2] Source: Comment in r/nagpur
+Text: Cops keep a civ around to discuss bribes.
+URL: https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2y7g0s/
+
+[3] Source: Comment in r/IndiaUnfilter
+Text: Toh hum Noida or Ghaziabad se pahadio ko bhagana shuru karein fir? 😂 Bhukmari ajaegi
+URL: https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/
+
+[4] Source: Comment in r/lucknow
+Text: A menu easy to cook/process - healthy and quick.
+URL: https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/
+
+[6] Source: Comment in r/lucknow
+Text: Its about the volume/%. The number of cars having these stickers is way too high compared to Delhi, or anywhere else.
+URL: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/n2ihjjp/
+
+[7] Source: Comment in r/lucknow
+Text: Never seen anything of this sort in capital city of India. So yes I did not expect 🤪
+URL: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/n2igp7d/
+
+[9] Source: Comment in r/lucknow
+Text: Same problem. I started eating power meals at home atleast saves me from crap quality. I even purchased a 250 per meal tiffin and it had palm oil!!!
+URL: https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2hvomb/
+
+[10] Source: Comment in r/amiugly
+Text: Below Average.
+URL: https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/
+
+[11] Source: Post in r/lucknow
+Text: Reading Cafe / Reader' Club?
+
+[removed]
+URL: https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+
+[12] Source: Post in r/lucknow
+Text: Everyone is something in LKO
+
+Born and raised in Delhi - I shifted to LKO in Dec 24 for business purposes. I have hardly seen a car which does not have a sticker on it - everyone is uttar pradesh sarkar, adhiwakta, nyay palika, mahamantri, skoda laura, adrak lsson. 
+
+
+What is the obsession peeps.
+URL: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+
+[13] Source: Post in r/lucknow
+Text: Productive weekend activities in LKO?
+
+[removed]
+URL: https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/
