@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 
 load_dotenv() 
 
-api_key = os.getenv("GEMINI_API_KEY")  #This is free api key that why given env file
+api_key = os.getenv("GEMINI_API_KEY")  #Make env file and Set GEMINI_API_KEY ="AIzaSyD8EQItv3a2p9PNpdgf4nK7vLStWuzwAcg" 
 
 if not api_key:
     raise ValueError("❌ GEMINI_API_KEY not found in environment variables.")
